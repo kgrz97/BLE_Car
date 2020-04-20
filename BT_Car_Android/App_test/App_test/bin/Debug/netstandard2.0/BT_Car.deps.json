@@ -1,0 +1,163 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "1f4f7007f2eb7124f2cc3ace38ff440077c13c1d"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BT_Car/1.0.0": {
+        "dependencies": {
+          "MR.Gestures": "2.1.1",
+          "NETStandard.Library": "2.0.3",
+          "Plugin.BLE": "2.0.1",
+          "Syncfusion.Xamarin.SfGauge": "16.4.0.52",
+          "Xamarin.Forms": "3.3.0.912540"
+        },
+        "runtime": {
+          "BT_Car.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "MR.Gestures/2.1.1": {
+        "dependencies": {
+          "Xamarin.Forms": "3.3.0.912540"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MR.Gestures.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Plugin.BLE/2.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Plugin.BLE.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/16.4.0.52": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "16.4.0.52",
+            "fileVersion": "16.4.0.52"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.Core/16.4.0.52": {
+        "dependencies": {
+          "Syncfusion.Licensing": "16.4.0.52"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Syncfusion.Core.XForms.dll": {
+            "assemblyVersion": "16.4451.0.52",
+            "fileVersion": "16.4451.0.52"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfGauge/16.4.0.52": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "16.4.0.52",
+          "Xamarin.Forms": "3.3.0.912540"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Syncfusion.SfGauge.XForms.dll": {
+            "assemblyVersion": "16.4451.0.52",
+            "fileVersion": "16.4451.0.52"
+          }
+        }
+      },
+      "Xamarin.Forms/3.3.0.912540": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT_Car/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "MR.Gestures/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2MMUG7RsWedAR7wSdF9bySmmf7uLpOGgEQsTgp01hv9U2zPPnKufvLlBWUpL23rvEnMJNISaf95qXngSgdBU8w==",
+      "path": "mr.gestures/2.1.1",
+      "hashPath": "mr.gestures.2.1.1.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Plugin.BLE/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T1qiiOGwt931Pn2cEBB6S+YAnvFyjVpzbsYzG/MnqJZEuJisLjshRhqrae/VGs1ESHlqKmSL00OM4ZD/ecy1fA==",
+      "path": "plugin.ble/2.0.1",
+      "hashPath": "plugin.ble.2.0.1.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/16.4.0.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ap3E3pIFytZQKfJrWCrZiAwzX/WsYHtFxyjNG5PLJk/idz5tjU4y8Rg7uVhbTmVPWOucST+Vkg1R+5T4pmf7gg==",
+      "path": "syncfusion.licensing/16.4.0.52",
+      "hashPath": "syncfusion.licensing.16.4.0.52.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.Core/16.4.0.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pz99t1WA917V1KC80nlo4XoAUrbVYUMmR0fEIkVrqeaaZwEO84FBN+wiGrWXKRQVHEsNJqgPsp5GfrV4I+1wHA==",
+      "path": "syncfusion.xamarin.core/16.4.0.52",
+      "hashPath": "syncfusion.xamarin.core.16.4.0.52.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfGauge/16.4.0.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FnWPKdKTr7z3uryMHh+p5DXFenvEOXCV2FutdUGMs+bBw1k/0XXHJPCXGM+5ghCzNcyqqKNZ030sZK62W3P/uw==",
+      "path": "syncfusion.xamarin.sfgauge/16.4.0.52",
+      "hashPath": "syncfusion.xamarin.sfgauge.16.4.0.52.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.3.0.912540": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3809beGmhcJ1X53i2lUvUL7N2sLiFtIQhCnXn5SOnnZuoKjdm0l25vylHA0qSRjitO+o5eH+hnqACUbwuEMnSg==",
+      "path": "xamarin.forms/3.3.0.912540",
+      "hashPath": "xamarin.forms.3.3.0.912540.nupkg.sha512"
+    }
+  }
+}

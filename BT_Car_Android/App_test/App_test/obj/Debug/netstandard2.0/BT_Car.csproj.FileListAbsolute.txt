@@ -1,0 +1,12 @@
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\bin\Debug\netstandard2.0\BT_Car.deps.json
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\bin\Debug\netstandard2.0\BT_Car.dll
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\bin\Debug\netstandard2.0\BT_Car.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\BT_Car.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\BT_Car.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\BT_Car.AssemblyInfoInputs.cache
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\BT_Car.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\BT_Car.dll
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\obj\Debug\netstandard2.0\BT_Car.pdb

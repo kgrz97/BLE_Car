@@ -1,0 +1,289 @@
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\App_test.Android.dll
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\App_test.Android.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\com.companyname.App_test.apk
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\com.companyname.App_test-Signed.apk
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\App_test.dll
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\App_test.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\App_test.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\App_test.Android.nuget.stamp
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\App_test.Android.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res.flag
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\App_test.Android.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\XamlC.stamp
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\App_test.Android.csproj.CopyComplete
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\App_test.Android.dll
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\App_test.Android.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\bin\com.companyname.App_test.apk
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\layout\tabbar.xml
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\layout\toolbar.xml
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\values\styles.xml
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\values\colors.xml
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\R.cs.flag
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\R.txt
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\uploadflags.txt
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\mscorlib.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\Plugin.BLE.Abstractions.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Core.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Data.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\System.Xml.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\Plugin.BLE.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\bin\Debug\Mono.Android.Export.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\App_test.Android.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\Mono.Android.Export.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\Plugin.BLE.Abstractions.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\App_test.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\Plugin.BLE.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\App_test.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\Plugin.BLE.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\App_test.Android.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\Mono.Android.Export.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\Plugin.BLE.Abstractions.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\thumb_icon.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\background_1.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\close.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\connect.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\credits.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\scan.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\close_tapped.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\scan_tapped.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\connect_tapped.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\credits_tapped.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\wifi_1.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\wifi_2.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\wifi_3.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\wifi_4.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\background_2.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\disconnect.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\disconnect_tapped.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\ikona_auto.png
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\connect_disabled.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\credits_view.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\battery_0.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\battery_1.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\battery_2.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\battery_3.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\horn_tapped.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\horn_new.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test.Android\obj\Debug\81\res\drawable\logo_120x120.jpg
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\bin\Debug\netstandard2.0\App_test.dll
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\App_test.Android.dll
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\App_test.Android.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\com.companyname.App_test.apk
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\com.companyname.App_test-Signed.apk
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\BT_Car.dll
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\BT_Car.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\App_test.Android.nuget.stamp
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\App_test.Android.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res.flag
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\App_test.Android.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\XamlC.stamp
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\App_test.Android.csproj.CopyComplete
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\App_test.Android.dll
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\App_test.Android.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\bin\com.companyname.App_test.apk
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\layout\tabbar.xml
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\layout\toolbar.xml
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\values\styles.xml
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\values\colors.xml
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-hdpi\icon.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-mdpi\icon.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-xhdpi\icon.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-xxhdpi\icon.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\background_1.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\thumb_icon.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\background_2.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\logo_120x120.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\wifi_1.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\wifi_2.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\wifi_3.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\wifi_4.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\ikona_auto.png
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\close.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\close_tapped.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\connect_tapped.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\connect.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\connect_disabled.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\credits.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\credits_tapped.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\disconnect.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\disconnect_tapped.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\scan.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\scan_tapped.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\credits_view.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\battery_0.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\battery_1.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\battery_2.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\battery_3.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\horn_tapped.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\res\drawable\horn_new.jpg
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\R.cs.flag
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\R.txt
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\uploadflags.txt
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\App_test.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\Mono.Android.Export.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\mscorlib.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\Plugin.BLE.Abstractions.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Core.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Data.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\System.Xml.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\App_test.dll
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\App_test.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\Plugin.BLE.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\App_test.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\Plugin.BLE.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\App_test.Android.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\Mono.Android.Export.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\Plugin.BLE.Abstractions.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\App_test.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Plugin.BLE.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\App_test.Android.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Mono.Android.Export.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Plugin.BLE.Abstractions.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test\bin\Debug\netstandard2.0\BT_Car.dll
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\bin\Debug\BT_Car.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\BT_Car.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Plugin.BLE.dll.mdb
+C:\Users\Konrad\Desktop\App_test — kopia\App_test\App_test.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

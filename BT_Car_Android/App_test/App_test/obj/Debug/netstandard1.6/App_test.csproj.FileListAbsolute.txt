@@ -1,0 +1,12 @@
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\bin\Debug\netstandard1.6\App_test.deps.json
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\bin\Debug\netstandard1.6\App_test.dll
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\bin\Debug\netstandard1.6\App_test.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\App_test.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\App.xaml.g.cs
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\MainPage.xaml.g.cs
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\App_test.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\App_test.AssemblyInfo.cs
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\XamlC.stamp
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\App_test.dll
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\App_test.pdb
+C:\Users\Konrad\Desktop\App_test\App_test\App_test\obj\Debug\netstandard1.6\App_test.AssemblyInfoInputs.cache

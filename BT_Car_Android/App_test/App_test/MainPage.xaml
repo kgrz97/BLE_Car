@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App_test"
+             xmlns:gauge="clr-namespace:Syncfusion.SfGauge.XForms;assembly=Syncfusion.SfGauge.XForms"
+             xmlns:mr="clr-namespace:MR.Gestures;assembly=MR.Gestures"
+             x:Class="App_test.MainPage"
+             Title="Main_Page"
+             NavigationPage.HasNavigationBar="False"
+             >
+
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <!-- Place new controls here -->
+
+            <mr:Slider x:Name="Steering_Slider"
+                    MaximumTrackColor="White"
+                    MinimumTrackColor="White"
+                    ThumbImage="thumb_icon.png"
+                    Maximum="9"
+                    Minimum="1"
+                    Value="5"
+                    ValueChanged="Steering_value"
+                    HeightRequest="85"
+                    Up="Steering_Slider_end_gesture"
+                    AbsoluteLayout.LayoutFlags="All" 
+                    AbsoluteLayout.LayoutBounds=".2,.65,0.28,0.25" 
+                    ScaleY="1.5"  />
+
+            <gauge:SfCircularGauge Margin="20" x:Name="SteeringWheel" 
+                   AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds=".18,2.05,250,275">
+                <gauge:SfCircularGauge.Scales>
+                    <gauge:Scale StartAngle="220" StartValue="1" EndValue="9" Interval="1" SweepAngle="100" ShowLabels="False">
+                        <gauge:Scale.Ranges>
+                            <gauge:Range StartValue="1" EndValue="4" Color="Red" Thickness="20"/>
+                            <gauge:Range StartValue="4.1" EndValue="5.9" Color="Yellow" Thickness="20"/>
+                            <gauge:Range StartValue="6" EndValue="9" Color="#2482E2" Thickness="20"/>
+                        </gauge:Scale.Ranges>
+                        <gauge:Scale.Pointers>
+                            <gauge:MarkerPointer Value="5" x:Name="MarkerSW" Color="DeepSkyBlue" AnimationDuration="0.4"/>
+                        </gauge:Scale.Pointers>
+                    </gauge:Scale>
+                </gauge:SfCircularGauge.Scales>
+            </gauge:SfCircularGauge>
+
+            <mr:Slider x:Name="Throttle_Slider"
+                   MaximumTrackColor="White"
+                   MinimumTrackColor="White"
+                   ThumbImage="thumb_icon.png"
+                   Maximum="9"
+                   Minimum="1"
+                   Value="5"
+                   Rotation="270"
+                   ValueChanged="Value_slider"
+                   Up="Throttle_Slider_end_gesture"
+                   AbsoluteLayout.LayoutFlags="All"
+                   AbsoluteLayout.LayoutBounds="1.11,.45,.4,.5"  />
+
+            <gauge:SfCircularGauge Margin="20" x:Name="Speedometer" 
+                   AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="1.65,.5,360,355">
+                <gauge:SfCircularGauge.Scales>
+                    <gauge:Scale StartValue="1" EndValue="9" Interval="1" SweepAngle="100" ShowLabels="False" RimColor="#2482E2">
+                        <gauge:Scale.Ranges>
+                            <gauge:Range StartValue="1" EndValue="4.5" Color="Red"/>
+                            <gauge:Range StartValue="4.6" EndValue="5.4" Color="Yellow" />
+                            <gauge:Range StartValue="5.5" EndValue="9" Color="#2482E2" />
+                        </gauge:Scale.Ranges>
+                        <gauge:Scale.Pointers>
+                            <gauge:NeedlePointer Value="5" x:Name="Marker" LengthFactor="0.6" Type="Triangle" Thickness="10.5" Color="#FE3E00" AnimationDuration="0.4"/>
+                        </gauge:Scale.Pointers>
+                    </gauge:Scale>
+                </gauge:SfCircularGauge.Scales>
+            </gauge:SfCircularGauge>
+
+
+            <Image x:Name="Connect_Image"
+                   Source="CONNECT_disabled.jpg"
+                   AbsoluteLayout.LayoutBounds=".88,.15,120,47" 
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnTapGesture" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image x:Name="Close_Image"
+                   Source="CLOSE.jpg"
+                   AbsoluteLayout.LayoutBounds=".88,.85,120,47" 
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+                   <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="CloseApp_Click" />
+                </Image.GestureRecognizers>
+            </Image>
+
+
+            <Image x:Name="Scan_Image"
+                   Source="SCAN.jpg"
+                   AbsoluteLayout.LayoutBounds=".12,.15,120,47"
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Scanning_Function" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image x:Name="Credits_Image"
+                   Source="CREDITS.jpg"
+                   AbsoluteLayout.LayoutBounds=".12,.85,120,47"
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Show_credits" />
+                </Image.GestureRecognizers>
+            </Image>
+
+
+                <Image x:Name="Disconnect_Image"
+                   Source="DISCONNECT.jpg"
+                   AbsoluteLayout.LayoutBounds=".07,.22,120,47" 
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="DisconnectClicked" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Image x:Name="Signal_Image_1"
+                   Source="wifi_3.JPG"
+                   AbsoluteLayout.LayoutBounds=".48,.1,40,29"
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+            </Image>
+            
+            <Image x:Name="Close_SV_Image"
+                   Source="CLOSE.jpg"
+                   AbsoluteLayout.LayoutBounds=".07, 0.1, 120, 40"
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="CloseApp_Click" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Button x:Name="Horn_button"
+                    BackgroundColor="White"
+                    Image="horn_new.jpg"
+                    AbsoluteLayout.LayoutBounds=".6,.45, 45, 36"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"
+                    Pressed="Horn_Button_Pressed"
+                    Released="Horn_Button_Released">
+            </Button>
+
+            <Image x:Name="Credits_view_Image"
+                   Source="CREDITS_view.jpg"
+                   IsVisible="False"
+                   AbsoluteLayout.LayoutBounds=".0, .0, 730, 360"
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Credits_view_click" />
+                </Image.GestureRecognizers>
+                
+            </Image>
+
+            <Image x:Name="Battery_Image"
+                   Source="battery_3.jpg"
+                   AbsoluteLayout.LayoutBounds=".55, .1, 45, 30"
+                   AbsoluteLayout.LayoutFlags="PositionProportional">
+            </Image>
+            
+            
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3MUU36K9P00F2G0BxwcUVFWGiK2VT+NYDwd6xWaLJa/NpvCQuRpffPWk2vfvZnFKAPSc8PCrQg1O8w0ION1DAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Konrad\\Desktop\\App_test\\App_test\\App_test\\App_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Konrad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\mr.gestures\\2.1.1\\mr.gestures.2.1.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\plugin.ble\\2.0.1\\plugin.ble.2.0.1.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\syncfusion.licensing\\16.4.0.52\\syncfusion.licensing.16.4.0.52.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\syncfusion.xamarin.core\\16.4.0.52\\syncfusion.xamarin.core.16.4.0.52.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\syncfusion.xamarin.sfgauge\\16.4.0.52\\syncfusion.xamarin.sfgauge.16.4.0.52.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\xamarin.forms\\3.3.0.912540\\xamarin.forms.3.3.0.912540.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bzfa2uaTX9nmzlC3yJwXwSqk41YTDQfyOzGbf89WwferaOtbPn7Bz1ijmV24O/t2vdtSjk3TqYAslP2owxcdwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Konrad\\Desktop\\App_test\\App_test\\App_test.iOS\\App_test.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Konrad\\.nuget\\packages\\mr.gestures\\2.1.1\\mr.gestures.2.1.1.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\plugin.ble\\2.0.1\\plugin.ble.2.0.1.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\syncfusion.licensing\\16.4.0.52\\syncfusion.licensing.16.4.0.52.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\syncfusion.xamarin.core\\16.4.0.52\\syncfusion.xamarin.core.16.4.0.52.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\syncfusion.xamarin.sfgauge\\16.4.0.52\\syncfusion.xamarin.sfgauge.16.4.0.52.nupkg.sha512",
+    "C:\\Users\\Konrad\\.nuget\\packages\\xamarin.forms\\3.3.0.912540\\xamarin.forms.3.3.0.912540.nupkg.sha512"
+  ],
+  "logs": []
+}
