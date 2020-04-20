@@ -1,10 +1,7 @@
 /*
- * Dodac macierz [100, 100]
- * Ruch obliczac na zasadzie opisu punktow na osiach ukladu wspolrzednych XY
- * ruch do przodu +/- os Y
- * skrecanie +/- os X
- * Powrot do miejsca poprzez odwrocenie akcji (jazda do przodu -> jazda do tylu)
+ * Oprogramowanie kontrolera ATtiny 2313
  *
+ * Taktowanie procesora 8 MHz
  *
  *
  */
@@ -17,24 +14,16 @@
 
 void USART_Init( uint16_t ubrr);
 void Usart_Transmit(unsigned char data);
-void Send_clause(char * napis);
 unsigned char USART_Receive( void );
 void komunikacja(void);
 void Send(char dane[50]);
-void BT_Init();
 void PWM_Init();
 void ServoPWM_Init();
 
 char dane[7];
-int l = 0, ile=0, turbo = 0;
+int l = 0;
 char poprzedni = '5';
 char thr_brk = '0';
-
-volatile int odleglosc = 0;
-char jazda = '1';
-
-volatile int tor[60], iterator = 0, dekrementator = 58;
-volatile int Y=0, Poprzedni_Y = 0;
 
 volatile uint8_t Battery_status = 3;
 
@@ -45,7 +34,6 @@ int main(void)
 	_delay_ms(100);
 	PWM_Init();
 	ServoPWM_Init();
-	//BT_Init();
 
 	DDRB |= (1<<PB1); 	// Pin B1 -> AIN1 sterownik
 	PORTB |= (1<<PB1);
@@ -76,7 +64,7 @@ int main(void)
 
 	///////////
 
-	PORTA |=(1<<PA0);
+	PORTA |=(1<<PA0);  // buzzer
 	_delay_ms(200);
 	PORTA &= ~(1<<PA0);
 
@@ -84,11 +72,6 @@ int main(void)
 	while(1)
 	{
 		komunikacja();
-
-		/*if((PIND & (1<<PD2)))
-			jazda = '0';
-		else
-			jazda = '1'; */
 	} // end while
 } // end main
 
@@ -143,12 +126,6 @@ while ( !(UCSRA & (1<<RXC)) )
 return UDR;
 }
 
-void Send_clause(char * napis)
-{
-	while(*napis)
-		Usart_Transmit(*napis++);
-}
-
 void Send(char dane[50])
 {
 	int length = strlen(dane);
@@ -156,16 +133,6 @@ void Send(char dane[50])
 	for(int i=0; i<length; i++)
 		Usart_Transmit(dane[i]);
 	}
-
-
-void BT_Init()
-{
-	Send_clause("AT+RESET");
-	_delay_ms(150);
-	Send_clause("AT+START");
-	_delay_ms(150);
-	}
-
 
 void komunikacja(void)
 {
@@ -202,7 +169,6 @@ void komunikacja(void)
 				_delay_ms(3);
 			}
 
-
 			////////////////////
 			char bs[2];
 			bs[0] = 'B';
@@ -232,96 +198,6 @@ void komunikacja(void)
 
 			////////////////////////
 		}
-
-		// Rozpedzanie
-		/*if((dane[0] == '1' || dane[0] == '2') && thr_brk == '0')
-		{
-			if(dane[0] == '1')
-				PORTB &= ~(1<<PB1); // lewo
-
-			if(dane[0] == '2')
-				PORTB |= (1<<PB1);// prawo
-
-			PORTB |= (1<<PB0);
-
-			for(int i = 50; i < 255; i++)
-			{
-					OCR0A  = i;
-					_delay_ms(2);
-			}
-		} */
-
-
-
-	/*	if(dane[0] == '0' && thr_brk == '0')
-		{
-			turbo = 0;
-
-			PORTB |= (1<<PB1); // soft stop
-
-			PORTB &= ~(1<<PB0);
-
-			OCR0A  = 0;
-
-			PORTB |= (1<<PB6); // dodatkowy led stopu wlaczone
-
-			PORTD &= ~(1<<PD4);
-		}
-		else
-		{
-			PORTB &= ~(1<<PB6); // dodatkowy led stopu wylaczone
-		}
-
-		if(dane[0]=='1' && dane[2]=='0' && thr_brk != '0')
-		{
-			PORTB &= ~(1<<PB1); // lewo
-
-			PORTB |= (1<<PB0);
-
-			if(turbo < 5)
-				OCR0A  = 255;
-			else
-				OCR0A  = 170;
-
-			PORTD &= ~(1<<PD4);
-		}
-
-		if(dane[0]=='2' && dane[2]=='0' && thr_brk != '0')
-		{
-			PORTB |= (1<<PB1);// prawo
-
-			PORTB |= (1<<PB0);
-
-			if(turbo < 5)
-				OCR0A  = 255;
-			else
-				OCR0A  = 170;
-
-			PORTD |= (1<<PD4);
-		}
-
-		if(dane[0]=='1' && dane[2]=='1' && thr_brk != '0')
-		{
-			PORTB &= ~(1<<PB1); // lewo
-
-			PORTB |= (1<<PB0);
-
-			OCR0A  = 255;
-
-			PORTD &= ~(1<<PD4);
-		}
-
-		if(dane[0]=='2' && dane[2]=='1' && thr_brk != '0')
-		{
-			PORTB |= (1<<PB1);// prawo
-
-			PORTB |= (1<<PB0);
-
-			OCR0A  = 255;
-
-			PORTD |= (1<<PD4);
-		} */
-
 
 		// Klakson
 		if(dane[2] == '1')
@@ -370,14 +246,12 @@ void komunikacja(void)
 					PORTB &= ~(1<<PB0);
 					PORTB |= (1<<PB6); // dodatkowy led stopu wlaczone
 					PORTD &= ~(1<<PD2);
-					turbo = 0;
 					}; break;
 
 
 		case '4': { PORTB |= (1<<PB1);// tyl
 					PORTB &= ~(1<<PB0);
 					OCR0A  = 170;
-					Y--;
 					PORTD |= (1<<PD2);
 					PORTB &= ~(1<<PB6);
 					}; break;
@@ -427,53 +301,6 @@ void komunikacja(void)
 			{
 				OCR1B = 1350;
 			}
-
-			if(turbo < 7)
-				turbo++;
-
-
-			// coœ nie dziala
-		/*iterator++;
-
-
-		if(iterator >= 1000)
-		{
-			PORTA |= (1<<PA0);
-			_delay_ms(1000);
-			PORTA &= ~(1<<PA0);
-
-			Y+=100;
-
-
-			while(Y >= 1)
-			{
-
-
-				if(Y > 0)
-				{
-					OCR0A = 185;
-					PORTB |= (1<<PB1);// tyl
-				}
-				else
-				{
-					OCR0A = 185;
-					PORTB &= ~(1<<PB1);// przod
-				}
-				_delay_ms(20);
-				Y--;
-			}
-
-			PORTA &= ~(1<<PA0);
-
-		} */
-
-
-		//Send_clause("BSA");
-
-
-			//Usart_Transmit('B');
-
-		Poprzedni_Y = Y;
 		poprzedni = dane[1];
 		thr_brk = dane[0];
 		l=0;
