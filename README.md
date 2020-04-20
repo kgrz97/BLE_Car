@@ -1,4 +1,4 @@
-# <icon src="icon.png" width="70" height="68" /> BLE_Car
+# <img src="icon.png" width="70" height="68" /> BLE_Car
 
 Project include 3 software modules:
 - Xamarin C# app for Android,
