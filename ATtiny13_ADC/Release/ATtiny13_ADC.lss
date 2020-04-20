@@ -1,0 +1,86 @@
+
+ATtiny13_ADC.elf:     file format elf32-avr
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         0000007e  00000000  00000000  00000054  2**1
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+
+Disassembly of section .text:
+
+00000000 <__vectors>:
+   0:	09 c0       	rjmp	.+18     	; 0x14 <__ctors_end>
+   2:	0e c0       	rjmp	.+28     	; 0x20 <__bad_interrupt>
+   4:	0d c0       	rjmp	.+26     	; 0x20 <__bad_interrupt>
+   6:	0c c0       	rjmp	.+24     	; 0x20 <__bad_interrupt>
+   8:	0b c0       	rjmp	.+22     	; 0x20 <__bad_interrupt>
+   a:	0a c0       	rjmp	.+20     	; 0x20 <__bad_interrupt>
+   c:	09 c0       	rjmp	.+18     	; 0x20 <__bad_interrupt>
+   e:	08 c0       	rjmp	.+16     	; 0x20 <__bad_interrupt>
+  10:	07 c0       	rjmp	.+14     	; 0x20 <__bad_interrupt>
+  12:	06 c0       	rjmp	.+12     	; 0x20 <__bad_interrupt>
+
+00000014 <__ctors_end>:
+  14:	11 24       	eor	r1, r1
+  16:	1f be       	out	0x3f, r1	; 63
+  18:	cf e9       	ldi	r28, 0x9F	; 159
+  1a:	cd bf       	out	0x3d, r28	; 61
+  1c:	02 d0       	rcall	.+4      	; 0x22 <main>
+  1e:	2d c0       	rjmp	.+90     	; 0x7a <_exit>
+
+00000020 <__bad_interrupt>:
+  20:	ef cf       	rjmp	.-34     	; 0x0 <__vectors>
+
+00000022 <main>:
+  22:	bd 98       	cbi	0x17, 5	; 23
+  24:	81 e2       	ldi	r24, 0x21	; 33
+  26:	87 b9       	out	0x07, r24	; 7
+  28:	87 e8       	ldi	r24, 0x87	; 135
+  2a:	86 b9       	out	0x06, r24	; 6
+  2c:	b8 9a       	sbi	0x17, 0	; 23
+  2e:	c0 98       	cbi	0x18, 0	; 24
+  30:	b9 9a       	sbi	0x17, 1	; 23
+  32:	c1 98       	cbi	0x18, 1	; 24
+  34:	4c e2       	ldi	r20, 0x2C	; 44
+  36:	51 e0       	ldi	r21, 0x01	; 1
+  38:	85 b1       	in	r24, 0x05	; 5
+  3a:	28 2f       	mov	r18, r24
+  3c:	30 e0       	ldi	r19, 0x00	; 0
+  3e:	36 9a       	sbi	0x06, 6	; 6
+  40:	84 ef       	ldi	r24, 0xF4	; 244
+  42:	91 e0       	ldi	r25, 0x01	; 1
+  44:	fa 01       	movw	r30, r20
+  46:	31 97       	sbiw	r30, 0x01	; 1
+  48:	f1 f7       	brne	.-4      	; 0x46 <__SREG__+0x7>
+  4a:	01 97       	sbiw	r24, 0x01	; 1
+  4c:	d9 f7       	brne	.-10     	; 0x44 <__SREG__+0x5>
+  4e:	28 36       	cpi	r18, 0x68	; 104
+  50:	31 05       	cpc	r19, r1
+  52:	14 f0       	brlt	.+4      	; 0x58 <__SREG__+0x19>
+  54:	c0 9a       	sbi	0x18, 0	; 24
+  56:	c1 9a       	sbi	0x18, 1	; 24
+  58:	c9 01       	movw	r24, r18
+  5a:	84 56       	subi	r24, 0x64	; 100
+  5c:	90 40       	sbci	r25, 0x00	; 0
+  5e:	04 97       	sbiw	r24, 0x04	; 4
+  60:	10 f4       	brcc	.+4      	; 0x66 <__SREG__+0x27>
+  62:	c0 9a       	sbi	0x18, 0	; 24
+  64:	c1 98       	cbi	0x18, 1	; 24
+  66:	24 36       	cpi	r18, 0x64	; 100
+  68:	31 05       	cpc	r19, r1
+  6a:	34 f7       	brge	.-52     	; 0x38 <__CCP__+0x4>
+  6c:	c0 98       	cbi	0x18, 0	; 24
+  6e:	c1 98       	cbi	0x18, 1	; 24
+  70:	e3 cf       	rjmp	.-58     	; 0x38 <__CCP__+0x4>
+
+00000072 <adc_read>:
+  72:	85 b1       	in	r24, 0x05	; 5
+  74:	36 9a       	sbi	0x06, 6	; 6
+  76:	90 e0       	ldi	r25, 0x00	; 0
+  78:	08 95       	ret
+
+0000007a <_exit>:
+  7a:	f8 94       	cli
+
+0000007c <__stop_program>:
+  7c:	ff cf       	rjmp	.-2      	; 0x7c <__stop_program>
