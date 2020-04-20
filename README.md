@@ -33,7 +33,8 @@ Xamarin Android App allows to:
 This uC supports:
 - reading and interpretation of BLE signals from Android App,
 - controlling motor driver and servo,
-- controlling LED system mounted on a car.
+- controlling LED system mounted on a car,
+- sending battery status to android.
 
 
 **ATtiny 13**
