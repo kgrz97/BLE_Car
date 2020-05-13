@@ -44,7 +44,8 @@ This uC supports:
 - sending results to main controller.
 
 
-
+## PCB prototype:
+https://workspace.circuitmaker.com/Projects/Details/Konrad-Grz/BluetoothCar
 
 ## Plans for the future:
 - use a more efficient uC,
