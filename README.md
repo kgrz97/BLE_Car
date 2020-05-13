@@ -52,4 +52,7 @@ This uC supports:
 
 
 ## Some photos:
-# <img src="Main_photo.png" width="460" height="340" />
+# <img src="Main_photo.jpg" width="460" height="340" />
+# <img src="Above.jpg" width="460" height="340" />
+# <img src="Back.jpg" width="460" height="340" />
+# <img src="interior.jpg" width="460" height="340" />
