@@ -49,3 +49,7 @@ This uC supports:
 ## Plans for the future:
 - use a more efficient uC,
 - design a PCB. 
+
+
+## Some photos:
+# <img src="Main_photo.png" width="460" height="340" />
